@@ -1,0 +1,72 @@
+.body1{
+    margin: 0;
+    height: 100vh;
+    background-color:#eee;
+}
+
+.biankuang{
+    border: 1px solid black;
+}
+
+
+
+.dingbulan{
+    display: flex;
+    justify-content: center;
+    height: 80px;
+    width: auto;
+    background-color: #eee;
+}
+
+.dbl{
+    margin-right: 10em;
+    font-weight: 700;
+    color: #aaa;
+    font-weight: normal;
+    transition: color 0.3s, font-weight 0.3s;
+}
+
+.dbl:hover{
+    color: #000;
+    font-weight: bold;
+}
+
+.jibenlan{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    width: auto;
+    background-color: white
+}
+
+.gzlan{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    width: auto;
+    background-color: #eee;
+}
+
+.jylan{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    width: auto;
+    background-color: white;
+}
+
+.yuyanlan{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    width: auto;
+    background-color: #eee;
+}
+
+.jxzslan{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    width: auto;
+    background-color: white
+}
